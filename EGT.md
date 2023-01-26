@@ -1,5 +1,9 @@
+This bug is experienced whenever your token expires and 
+you have to enter the git token password every time you 
+commit a git repo
+
 //to crosscheck the existing url
-git remote -v : 
+git remote -v 
 
 //to remove the existing expired token url
 git remote remove origin 

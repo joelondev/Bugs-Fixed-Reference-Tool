@@ -15,3 +15,5 @@ git remote add origin https://{yourtoken}@github.com/username/repo.git
 
 //confirm new token url :
 git remote -v
+
+//configure git folder
